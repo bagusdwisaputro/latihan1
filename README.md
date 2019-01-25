@@ -2,8 +2,11 @@
 
 
 ## Langkah - Langkah cara penggunaan Git Hub
+![gambar git](https://user-images.githubusercontent.com/47028610/51749646-c971af00-2064-11e9-9a6e-e1ee56ade947.png)
+
 
 Apa itu Git ?
+
 Git adalah pengontrol versi yang bertugas mencatat setiap perubahan pada file proyek yang dikerjakan oleh banyak orang maupun sendiri. Git dikenal juga dengan distributed revision control (VCS terdistribusi), artinya penyimpanan database Git tidak hanya berada dalam satu tempat saja.
 
 # Langkah-langkah Install GIT di berbagai jenis sistem
