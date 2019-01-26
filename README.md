@@ -115,3 +115,6 @@ Menginstall GIT di Windows sangat mudah, cukup dengan mendownload dan menjalanka
 # 311810029
 # TI 18 B.1
 Sekian dan terima kasih
+
+![pb](https://user-images.githubusercontent.com/47028610/51786155-35523580-2193-11e9-9de9-9992102b11eb.png)
+
